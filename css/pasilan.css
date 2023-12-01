@@ -43,12 +43,12 @@ section {
 
 
 @keyframes fadeInBackgroundColor {
-    from {
-        background-color: #eee;
-    }
-    to {
-        background-color: #333; 
-    }
+  from {
+      background-color: #eee;
+  }
+  to {
+      background-color: #333; 
+  }
 }
 
 
