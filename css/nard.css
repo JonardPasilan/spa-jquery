@@ -1,0 +1,19 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/01/71/5d/01715d903f85b151035284ed601fdfd0.gif);
+    background-size: cover; 
+    background-position: center;
+    height: 100vh;
+    margin: 0; /* Kuhaon ang default nga margin */
+    display: flex;
+    justify-content: left;
+    align-items: top;
+    margin-right: 20px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-style: oblique;
+    text-align: end;
+    color:rgb(255, 255, 255)
+
+}
